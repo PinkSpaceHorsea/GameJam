@@ -2590,3 +2590,1121 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-18.30.26:338][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.07.11-18.30.26:375][723]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2020.07.11-18.30.26:375][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-18.32.19:623][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.07.11-18.32.19:640][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Character" FILE="../../../../../GitHub/GameJam/Saved/Autosaves/Game/Levels/Character_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.11-18.32.19:661][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Character_Auto1F22C9277407E066976013F89D0CD0129.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Levels/Character_Auto1.umap'
+[2020.07.11-18.32.19:662][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Character' took 0.051
+[2020.07.11-18.32.19:662][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.07.11-18.32.19:662][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor] ([1] browsable assets)...
+[2020.07.11-18.32.19:669][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor.FlowerTest_PlantBase_BaseColor]
+[2020.07.11-18.32.19:669][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor]
+[2020.07.11-18.32.19:690][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_BaseColor_AE828D9E6473142E9101FED81444AE6A6.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor_Auto1.uasset'
+[2020.07.11-18.32.19:692][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_PlantBase_Height] ([1] browsable assets)...
+[2020.07.11-18.32.19:721][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Height.FlowerTest_PlantBase_Height]
+[2020.07.11-18.32.19:721][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_PlantBase_Height]
+[2020.07.11-18.32.19:727][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Height_AutoB67AFD25480C564208B733A6D44F1FC3.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_PlantBase_Height_Auto1.uasset'
+[2020.07.11-18.32.19:728][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_PlantBase_Metallic] ([1] browsable assets)...
+[2020.07.11-18.32.19:731][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Metallic.FlowerTest_PlantBase_Metallic]
+[2020.07.11-18.32.19:731][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_PlantBase_Metallic]
+[2020.07.11-18.32.19:737][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Metallic_AuB645BC674CDC69596A75618162D8BB2B.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_PlantBase_Metallic_Auto1.uasset'
+[2020.07.11-18.32.19:738][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_PlantBase_Normal] ([1] browsable assets)...
+[2020.07.11-18.32.19:748][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Normal.FlowerTest_PlantBase_Normal]
+[2020.07.11-18.32.19:748][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_PlantBase_Normal]
+[2020.07.11-18.32.19:774][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Normal_Auto3A14CEC04063AD0F79AC3EBB580E42FF.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_PlantBase_Normal_Auto1.uasset'
+[2020.07.11-18.32.19:775][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_PlantBase_Roughness] ([1] browsable assets)...
+[2020.07.11-18.32.19:781][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Roughness.FlowerTest_PlantBase_Roughness]
+[2020.07.11-18.32.19:781][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_PlantBase_Roughness]
+[2020.07.11-18.32.19:787][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Roughness_A11EA6B464834D05BD54680B91A104CCD.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_PlantBase_Roughness_Auto1.uasset'
+[2020.07.11-18.32.19:788][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_Plants_Height] ([1] browsable assets)...
+[2020.07.11-18.32.19:795][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Height.FlowerTest_Plants_Height]
+[2020.07.11-18.32.19:795][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_Plants_Height]
+[2020.07.11-18.32.19:800][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Height_Auto1F953298C4282D7DAAD1BAD9480FAF690.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_Plants_Height_Auto1.uasset'
+[2020.07.11-18.32.19:801][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_Plants_Metallic] ([1] browsable assets)...
+[2020.07.11-18.32.19:819][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Metallic.FlowerTest_Plants_Metallic]
+[2020.07.11-18.32.19:819][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_Plants_Metallic]
+[2020.07.11-18.32.19:831][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Metallic_Auto17BBD85A647A830E002BB309D6801B086.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_Plants_Metallic_Auto1.uasset'
+[2020.07.11-18.32.19:831][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_Plants_Normal] ([1] browsable assets)...
+[2020.07.11-18.32.19:838][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Normal.FlowerTest_Plants_Normal]
+[2020.07.11-18.32.19:838][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_Plants_Normal]
+[2020.07.11-18.32.19:860][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Normal_Auto1D61993394A884AC1800B678EC5DF1360.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_Plants_Normal_Auto1.uasset'
+[2020.07.11-18.32.19:861][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/FlowerTest_Plants_Roughness] ([1] browsable assets)...
+[2020.07.11-18.32.19:868][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Roughness.FlowerTest_Plants_Roughness]
+[2020.07.11-18.32.19:868][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/FlowerTest_Plants_Roughness]
+[2020.07.11-18.32.19:873][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Roughness_AutoE24C187643F757AC8087EABB3B435C57.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/FlowerTest_Plants_Roughness_Auto1.uasset'
+[2020.07.11-18.32.19:874][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TExtures/Plants_Opacity] ([1] browsable assets)...
+[2020.07.11-18.32.19:891][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/TExtures/Plants_Opacity.Plants_Opacity]
+[2020.07.11-18.32.19:891][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TExtures/Plants_Opacity]
+[2020.07.11-18.32.19:891][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/Plants_Opacity" FILE="../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/Plants_Opacity_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.07.11-18.32.19:896][415]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Plants_Opacity_Auto1913840D74C3C046C2F232982B7964827.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Materials/TExtures/Plants_Opacity_Auto1.uasset'
+[2020.07.11-18.32.19:897][415]LogFileHelpers: Auto-saving content packages took 0.235
+[2020.07.11-18.41.11:602][993]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.41.11:602][993]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.43.06:612][333]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.43.12:494][346]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.23:485][554]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.23:921][555]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.23:922][555]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.24:829][556]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.28:007][566]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.29:216][568]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.29:216][568]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-18.44.30:296][572]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-19.00.37:703][835]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Faye/Documents/GameJam2020/Models/Arrangement.fbx)
+[2020.07.11-19.00.37:715][835]LogFbx: Loading FBX Scene from C:/Users/Faye/Documents/GameJam2020/Models/Arrangement.fbx
+[2020.07.11-19.00.37:729][835]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.11-19.00.42:261][835]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.11-19.00.42:308][835]LogMaterial: Display: Missing cached shader map for material PM3D_Cube3D_1, compiling. 
+[2020.07.11-19.00.42:323][835]LogMaterial: Display: Missing cached shader map for material PM3D_Cylinder3D1, compiling. 
+[2020.07.11-19.00.42:332][835]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.11-19.00.42:332][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.11-19.00.42:332][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.11-19.00.42:338][835]LogMaterial: Display: Missing cached shader map for material PM3D_Cylinder3D2, compiling. 
+[2020.07.11-19.00.42:355][835]LogMaterial: Display: Missing cached shader map for material PM3D_Circle3D1, compiling. 
+[2020.07.11-19.00.42:365][835]LogFbx: Display: Triangulating static mesh PM3D_Circle3D1
+[2020.07.11-19.00.42:442][835]LogMaterial: Display: Missing cached shader map for material PM3D_Circle3D2, compiling. 
+[2020.07.11-19.00.42:475][835]LogFbx: Display: Triangulating static mesh PM3D_Circle3D2
+[2020.07.11-19.00.42:745][835]LogMaterial: Display: Missing cached shader map for material PM3D_Ring3D1, compiling. 
+[2020.07.11-19.00.42:755][835]LogFbx: Display: Triangulating static mesh PM3D_Ring3D1
+[2020.07.11-19.00.42:771][835]LogMaterial: Display: Missing cached shader map for material PM3D_Ring3D2_1, compiling. 
+[2020.07.11-19.00.42:780][835]LogFbx: Display: Triangulating static mesh PM3D_Ring3D2_1
+[2020.07.11-19.00.42:797][835]LogMaterial: Display: Missing cached shader map for material PM3D_Ring3D2, compiling. 
+[2020.07.11-19.00.42:807][835]LogFbx: Display: Triangulating static mesh PM3D_Ring3D2
+[2020.07.11-19.00.42:825][835]LogMaterial: Display: Missing cached shader map for material PM3D_Ring3D3, compiling. 
+[2020.07.11-19.00.42:834][835]LogFbx: Display: Triangulating static mesh PM3D_Ring3D3
+[2020.07.11-19.00.42:853][835]LogStaticMesh: Building static mesh Arrangement...
+[2020.07.11-19.00.42:961][835]LogStaticMesh: Built static mesh [0.11s] /Game/Models/Arrangement.Arrangement
+[2020.07.11-19.00.42:978][835]LogStaticMesh: Warning: Arrangement has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.07.11-19.00.42:978][835]LogStaticMesh: Warning: Arrangement has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.07.11-19.00.42:993][835]FBXImport: Warning: Arrangement has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.07.11-19.00.42:993][835]FBXImport: Warning: Arrangement has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.07.11-19.00.44:124][866]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2020.07.11-19.00.48:183][132]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-19.00.48:198][132]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-19.00.49:506][201]LogActorFactory: Actor Factory created Arrangement
+[2020.07.11-19.00.50:023][231]LogActorFactory: Actor Factory created Arrangement
+[2020.07.11-19.00.50:805][297]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 110
+[2020.07.11-19.00.51:182][329]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2020.07.11-19.01.01:926][304]Cmd: MODE GRID=0
+[2020.07.11-19.01.02:809][305]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 90
+[2020.07.11-19.01.03:904][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.07.11-19.01.05:748][584]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.07.11-19.01.06:568][663]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-19.01.09:075][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arrangement)
+[2020.07.11-19.01.15:907][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.07.11-19.01.15:914][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.07.11-19.01.16:682][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.07.11-19.01.17:302][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.07.11-19.01.17:699][226]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.11-19.01.18:403][226]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Models/PM3D_Ring3D3.PM3D_Ring3D3
+	Asset Name: /Game/Models/PM3D_Circle3D1.PM3D_Circle3D1
+	Asset Name: /Game/Models/PM3D_Circle3D2.PM3D_Circle3D2
+	Asset Name: /Game/Models/PM3D_Cube3D_1.PM3D_Cube3D_1
+	Asset Name: /Game/Models/PM3D_Cylinder3D1.PM3D_Cylinder3D1
+	Asset Name: /Game/Models/PM3D_Cylinder3D2.PM3D_Cylinder3D2
+	Asset Name: /Game/Models/PM3D_Ring3D1.PM3D_Ring3D1
+	Asset Name: /Game/Models/PM3D_Ring3D2.PM3D_Ring3D2
+	Asset Name: /Game/Models/PM3D_Ring3D2_1.PM3D_Ring3D2_1
+[2020.07.11-19.01.21:740][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.07.11-19.01.21:741][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.11-19.01.23:526][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.07.11-19.01.24:314][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.11-19.01.30:415][846]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/WhiteShiny.WhiteShiny
+[2020.07.11-19.01.30:417][846]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.30:543][846]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.30:551][846]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.32:944][972]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.07.11-19.01.34:062][ 50]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.07.11-19.01.35:953][173]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.35:961][173]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.36:561][212]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.07.11-19.01.37:210][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.01.40:055][414]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.01.40:438][440]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.07.11-19.01.40:530][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.40:537][444]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.42:371][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.07.11-19.01.43:783][650]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.43:790][650]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.43:838][651]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.11-19.01.44:712][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.07.11-19.01.46:271][799]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.07.11-19.01.46:301][800]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.46:314][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.46:329][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.46:336][800]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.46:351][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.46:358][800]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.46:373][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.46:380][800]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.46:386][800]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.01.46:386][800]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.01.47:371][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.07.11-19.01.48:868][946]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.48:885][946]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.01.49:219][965]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.07.11-19.01.49:477][980]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.01.50:639][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.01.53:113][218]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.07.11-19.01.53:206][224]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.07.11-19.01.53:395][238]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.07.11-19.01.55:339][364]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.01.55:594][379]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.56:990][468]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.07.11-19.01.57:142][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.01.58:059][535]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.58:069][535]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.01.59:318][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.01.59:900][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.07.11-19.01.59:906][649]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.07.11-19.02.01:578][751]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.02.01:628][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.07.11-19.02.01:779][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.07.11-19.02.03:179][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.02.04:408][915]LogMaterialEditor: Applying material WhiteShiny
+[2020.07.11-19.02.04:973][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.07.11-19.02.04:973][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.04:973][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.07.11-19.02.04:983][915]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.02.05:038][915]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.02.05:068][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.07.11-19.02.05:076][915]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.02.05:639][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.07.11-19.02.05:639][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.07.11-19.02.05:639][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.07.11-19.02.06:200][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.07.11-19.02.06:200][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.07.11-19.02.06:200][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.07.11-19.02.06:761][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.07.11-19.02.06:761][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.07.11-19.02.06:761][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.07.11-19.02.07:321][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.11-19.02.07:321][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.07.11-19.02.07:321][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.07.11-19.02.07:321][915]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.02.07:321][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.07.11-19.02.07:324][915]TextureStreamingBuild: Display: Compiling optional shaders took 2.252 seconds.
+[2020.07.11-19.02.07:333][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.07.11-19.02.09:620][ 52]LogMaterialEditor: Saving and Compiling material WhiteShiny
+[2020.07.11-19.02.11:890][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.11-19.02.12:449][ 52]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.11-19.02.12:840][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.11-19.02.12:866][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/WhiteShiny" FILE="../../../../../GitHub/GameJam/Content/Materials/WhiteShiny.uasset" SILENT=true
+[2020.07.11-19.02.12:873][ 52]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/WhiteShiny3FA712674EE9F7187A02D8A4CD92D70D.tmp' to '../../../../../GitHub/GameJam/Content/Materials/WhiteShiny.uasset'
+[2020.07.11-19.02.12:916][ 52]AssetCheck: New page: Asset Save: WhiteShiny
+[2020.07.11-19.02.12:916][ 52]LogContentValidation: Display: Validating Material /Game/Materials/WhiteShiny.WhiteShiny
+[2020.07.11-19.02.12:920][ 52]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.07.11-19.02.12:920][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.07.11-19.02.12:920][ 52]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.02.12:920][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.02.13:022][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.02.13:025][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Character" FILE="../../../../../GitHub/GameJam/Saved/Autosaves/Game/Levels/Character_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.11-19.02.13:036][ 53]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Character_Auto2A071680F42D1057C255031AC5165726F.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Levels/Character_Auto2.umap'
+[2020.07.11-19.02.13:036][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Character' took 0.022
+[2020.07.11-19.02.13:037][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.022
+[2020.07.11-19.02.13:037][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Arrangement] ([1] browsable assets)...
+[2020.07.11-19.02.13:051][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Arrangement.Arrangement]
+[2020.07.11-19.02.13:051][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Arrangement]
+[2020.07.11-19.02.13:051][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Arrangement" FILE="../../../../../GitHub/GameJam/Saved/Autosaves/Game/Models/Arrangement_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.07.11-19.02.13:100][ 53]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Arrangement_Auto2B51A51F64CE44860D89119B9EDF9A190.tmp' to '../../../../../GitHub/GameJam/Saved/Autosaves/Game/Models/Arrangement_Auto2.uasset'
+[2020.07.11-19.02.13:100][ 53]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.07.11-19.02.24:988][682]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.25:015][683]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.11-19.02.25:015][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.11-19.02.25:015][683]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.11-19.02.26:365][727]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Rope.Rope
+[2020.07.11-19.02.26:366][727]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.26:440][727]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.26:449][727]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.26:467][727]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.26:621][728]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.29:791][912]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.29:800][912]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.29:863][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.33:032][101]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.02.33:401][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.33:408][122]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.34:489][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.34:496][190]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.36:015][289]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.36:858][343]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.36:865][343]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.38:467][442]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.38:740][457]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.38:747][457]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.40:015][530]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.40:031][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.40:047][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.40:054][530]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.40:068][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.40:076][530]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.40:091][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.02.40:099][530]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.40:106][530]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.02.40:858][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.02.43:139][714]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.02.43:230][720]LogMaterialEditor: Applying material Rope
+[2020.07.11-19.02.43:792][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.07.11-19.02.43:792][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.07.11-19.02.43:802][720]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.43:871][720]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.02.43:901][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.11-19.02.43:908][720]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.02.44:473][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.07.11-19.02.44:473][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.11-19.02.44:473][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.07.11-19.02.45:034][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.11-19.02.45:034][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.07.11-19.02.45:034][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.11-19.02.45:595][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.02.45:595][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.07.11-19.02.45:595][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.07.11-19.02.46:150][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.07.11-19.02.46:150][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.07.11-19.02.46:150][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.02.46:150][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.07.11-19.02.46:303][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.07.11-19.02.46:307][720]TextureStreamingBuild: Display: Compiling optional shaders took 2.403 seconds.
+[2020.07.11-19.02.46:317][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.02.46:849][750]LogMaterialEditor: Saving and Compiling material Rope
+[2020.07.11-19.02.47:996][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.02.48:557][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.07.11-19.02.49:615][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Rope" FILE="../../../../../GitHub/GameJam/Content/Materials/Rope.uasset" SILENT=true
+[2020.07.11-19.02.49:622][750]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Rope0C3E7F4348DD19C5E96746862C6B6711.tmp' to '../../../../../GitHub/GameJam/Content/Materials/Rope.uasset'
+[2020.07.11-19.02.49:669][750]AssetCheck: New page: Asset Save: Rope
+[2020.07.11-19.02.49:669][750]LogContentValidation: Display: Validating Material /Game/Materials/Rope.Rope
+[2020.07.11-19.02.49:673][750]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.07.11-19.02.49:673][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.07.11-19.02.49:674][750]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.02.49:674][750]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.03.03:701][689]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.03:731][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.11-19.03.03:731][690]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.11-19.03.03:731][690]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.11-19.03.05:067][755]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/GoldMEtal.GoldMEtal
+[2020.07.11-19.03.05:068][755]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.05:145][755]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.05:155][755]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.05:171][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.06:559][816]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.03.09:900][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.03.10:109][ 45]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.10:118][ 45]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.11:867][156]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.12:301][184]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.03.13:880][288]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.13:889][288]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.14:926][352]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.03.15:802][403]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.17:148][487]LogMaterialEditor: Applying material GoldMEtal
+[2020.07.11-19.03.17:737][487]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.17:788][487]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.17:817][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.11-19.03.17:823][487]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.03.18:387][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.07.11-19.03.18:944][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.07.11-19.03.18:944][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.07.11-19.03.18:944][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.11-19.03.18:944][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.07.11-19.03.19:503][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.11-19.03.19:503][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.07.11-19.03.19:503][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.11-19.03.20:063][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.03.20:063][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.07.11-19.03.20:063][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.07.11-19.03.20:623][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.07.11-19.03.20:623][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.07.11-19.03.20:854][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.11-19.03.20:854][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.07.11-19.03.20:854][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.07.11-19.03.20:857][487]TextureStreamingBuild: Display: Compiling optional shaders took 3.038 seconds.
+[2020.07.11-19.03.21:831][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.07.11-19.03.21:841][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.03.23:361][575]LogMaterialEditor: Saving and Compiling material GoldMEtal
+[2020.07.11-19.03.23:960][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.07.11-19.03.24:918][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/GoldMEtal" FILE="../../../../../GitHub/GameJam/Content/Materials/GoldMEtal.uasset" SILENT=true
+[2020.07.11-19.03.24:926][575]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/GoldMEtal5685B1934C3EC08112EDFF9AA98D9CA5.tmp' to '../../../../../GitHub/GameJam/Content/Materials/GoldMEtal.uasset'
+[2020.07.11-19.03.24:968][575]AssetCheck: New page: Asset Save: GoldMEtal
+[2020.07.11-19.03.24:968][575]LogContentValidation: Display: Validating Material /Game/Materials/GoldMEtal.GoldMEtal
+[2020.07.11-19.03.24:973][575]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.07.11-19.03.24:973][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.07.11-19.03.24:973][575]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.03.24:973][575]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.03.28:493][831]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.28:502][831]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.28:508][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.07.11-19.03.28:508][831]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.07.11-19.03.28:508][831]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.07.11-19.03.31:194][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.07.11-19.03.31:376][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.31:383][ 14]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.31:921][ 44]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.31:938][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.31:952][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.31:960][ 44]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.31:974][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.31:979][ 44]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.11-19.03.31:982][ 44]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.31:997][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.03.32:002][ 44]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.07.11-19.03.32:004][ 44]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.32:012][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.03.33:537][137]LogMaterialEditor: Applying material GoldMEtal
+[2020.07.11-19.03.34:100][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.07.11-19.03.34:110][137]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.34:173][137]LogMaterial: Display: Missing cached shader map for material GoldMEtal, compiling. 
+[2020.07.11-19.03.34:202][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.03.34:208][137]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.03.34:770][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.07.11-19.03.34:770][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.07.11-19.03.34:770][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.07.11-19.03.34:770][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.07.11-19.03.35:325][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.07.11-19.03.35:325][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.07.11-19.03.35:325][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.07.11-19.03.35:882][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.07.11-19.03.35:882][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.11-19.03.35:882][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.03.35:882][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.03.36:443][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.07.11-19.03.36:443][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.07.11-19.03.36:773][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.07.11-19.03.36:773][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.07.11-19.03.36:773][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.07.11-19.03.36:773][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.11-19.03.36:776][137]TextureStreamingBuild: Display: Compiling optional shaders took 2.572 seconds.
+[2020.07.11-19.03.36:785][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.07.11-19.03.37:318][172]LogMaterialEditor: Saving and Compiling material GoldMEtal
+[2020.07.11-19.03.38:467][172]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.11-19.03.39:022][172]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.11-19.03.39:968][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/GoldMEtal" FILE="../../../../../GitHub/GameJam/Content/Materials/GoldMEtal.uasset" SILENT=true
+[2020.07.11-19.03.39:994][172]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/GoldMEtal0A27A18242C58FD1DB7034851D80A305.tmp' to '../../../../../GitHub/GameJam/Content/Materials/GoldMEtal.uasset'
+[2020.07.11-19.03.40:036][172]AssetCheck: New page: Asset Save: GoldMEtal
+[2020.07.11-19.03.40:036][172]LogContentValidation: Display: Validating Material /Game/Materials/GoldMEtal.GoldMEtal
+[2020.07.11-19.03.40:039][172]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.07.11-19.03.40:039][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.07.11-19.03.40:039][172]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.03.40:039][172]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.04.00:719][563]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-19.04.01:198][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlowerTest)
+[2020.07.11-19.04.04:212][823]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.11-19.04.41:300][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-19.04.47:779][854]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.47:787][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.07.11-19.04.47:787][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.04.47:787][854]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.07.11-19.04.47:787][854]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.49:287][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.49:294][948]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.50:452][ 25]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.50:460][ 25]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.51:382][ 82]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.51:398][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.51:413][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.51:420][ 82]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.51:435][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.51:443][ 82]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.51:450][ 82]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.07.11-19.04.51:457][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.04.51:464][ 82]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.51:471][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.04.51:829][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.04.52:004][114]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.07.11-19.04.52:452][142]LogMaterialEditor: Applying material Rope
+[2020.07.11-19.04.53:029][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.07.11-19.04.53:040][142]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.53:111][142]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.04.53:187][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.07.11-19.04.53:190][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.07.11-19.04.53:195][142]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.04.53:759][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.07.11-19.04.53:759][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.11-19.04.53:759][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.07.11-19.04.54:320][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.07.11-19.04.54:320][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.07.11-19.04.54:320][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.11-19.04.54:876][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.07.11-19.04.54:876][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.04.54:876][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.07.11-19.04.55:436][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.07.11-19.04.55:436][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.07.11-19.04.55:436][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.04.55:436][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.07.11-19.04.55:458][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.07.11-19.04.55:461][142]TextureStreamingBuild: Display: Compiling optional shaders took 2.271 seconds.
+[2020.07.11-19.04.55:471][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.04.56:033][177]LogMaterialEditor: Saving and Compiling material Rope
+[2020.07.11-19.04.57:188][177]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.04.57:745][177]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.07.11-19.04.58:543][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Rope" FILE="../../../../../GitHub/GameJam/Content/Materials/Rope.uasset" SILENT=true
+[2020.07.11-19.04.58:552][177]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/RopeCB7EEC114353B29218DD5C97554F5558.tmp' to '../../../../../GitHub/GameJam/Content/Materials/Rope.uasset'
+[2020.07.11-19.04.58:586][177]AssetCheck: New page: Asset Save: Rope
+[2020.07.11-19.04.58:586][177]LogContentValidation: Display: Validating Material /Game/Materials/Rope.Rope
+[2020.07.11-19.04.58:588][177]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.07.11-19.04.58:588][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.07.11-19.04.58:588][177]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.04.58:588][177]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.05.03:997][551]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.04:005][551]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.04:012][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.07.11-19.05.04:012][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.05.04:012][551]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.07.11-19.05.05:392][637]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.05:400][637]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.06:363][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.07.11-19.05.06:386][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.06:393][698]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.06:413][699]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.11-19.05.06:703][718]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.05.07:990][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.07:998][794]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.08:479][820]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.07.11-19.05.08:596][827]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.08:606][827]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.07.11-19.05.08:607][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.08:622][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.08:629][827]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.08:644][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.08:651][827]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.08:666][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.08:673][827]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.08:683][827]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.05.08:872][834]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.07.11-19.05.10:497][943]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.07.11-19.05.11:052][981]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.07.11-19.05.11:385][  6]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.07.11-19.05.12:992][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.07.11-19.05.13:217][134]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.07.11-19.05.14:951][246]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.07.11-19.05.15:198][253]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.07.11-19.05.15:337][257]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.11-19.05.15:957][272]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.07.11-19.05.17:555][346]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.11-19.05.17:966][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.07.11-19.05.18:018][373]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/TExtures/FlowerTest_Plants_BaseColor.FlowerTest_Plants_BaseColor
+[2020.07.11-19.05.18:255][380]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.11-19.05.20:992][579]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.07.11-19.05.20:992][579]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.07.11-19.05.20:992][579]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.05.20:992][579]MaterialEditorStats: Texture samplers: 2/16
+[2020.07.11-19.05.22:772][723]LogTexture: Display: Building textures: FlowerTest_Plants_BaseColor (AutoDXT, 2048X2048)
+[2020.07.11-19.05.28:859][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_Plants_BaseColor" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_BaseColor.uasset" SILENT=true
+[2020.07.11-19.05.28:892][867]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_BaseColorF5ADDA2E482D9F24209A90AA907C4940.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_BaseColor.uasset'
+[2020.07.11-19.05.28:903][867]AssetCheck: New page: Asset Save: FlowerTest_Plants_BaseColor
+[2020.07.11-19.05.28:903][867]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_Plants_BaseColor.FlowerTest_Plants_BaseColor
+[2020.07.11-19.05.31:210][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-19.05.31:936][110]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-19.05.31:948][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-19.05.31:948][110]PIE: New page: PIE session: Character (11 Jul 2020, 21:05:31)
+[2020.07.11-19.05.31:985][110]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Character
+[2020.07.11-19.05.31:986][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2020.07.11-19.05.31:987][110]LogAIModule: Creating AISystem for world Character
+[2020.07.11-19.05.31:987][110]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A1B58C2200), frame # 113110
+[2020.07.11-19.05.31:988][110]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A1BD6FCCC0), frame # 113110
+[2020.07.11-19.05.31:988][110]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2020.07.11-19.05.31:988][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Character.Character to /Game/Levels/UEDPIE_0_Character.Character (0.002917s)
+[2020.07.11-19.05.31:996][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-19.05.32:000][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-19.05.32:000][110]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-19.05.32:000][110]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 2: FrontCenter
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 3: LowFrequency
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 4: BackLeft
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 5: BackRight
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 6: SideLeft
+[2020.07.11-19.05.32:009][110]LogAudioMixer: Display: 7: SideRight
+[2020.07.11-19.05.32:032][110]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair VOID PRO Wireless Gaming Headset)
+[2020.07.11-19.05.32:032][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.11-19.05.32:032][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.11-19.05.32:032][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.11-19.05.32:032][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.11-19.05.32:048][110]LogInit: FAudioDevice initialized.
+[2020.07.11-19.05.32:058][110]LogLoad: Game class is 'GameModeBase'
+[2020.07.11-19.05.32:108][110]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Character.Character up for play (max tick rate 0) at 2020.07.11-20.05.32
+[2020.07.11-19.05.32:108][110]LogWorld: Bringing up level for play took: 0.049922
+[2020.07.11-19.05.32:108][110]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.07.11-19.05.32:111][110]PIE: Server logged in
+[2020.07.11-19.05.32:111][110]PIE: Play in editor total start time 0.165 seconds.
+[2020.07.11-19.05.43:885][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.05.43:885][ 21]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Character
+[2020.07.11-19.05.43:885][ 21]LogWorld: UWorld::CleanupWorld for Character, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.05.43:885][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-19.05.43:898][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-19.05.43:899][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-19.05.43:925][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.05.43:926][ 21]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A1BD6FCCC0), frame # 114021
+[2020.07.11-19.05.43:926][ 21]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A1B58C2200), frame # 114021
+[2020.07.11-19.05.43:927][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.07.11-19.05.43:958][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.07.11-19.05.49:229][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arrangement)
+[2020.07.11-19.05.54:900][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.54:906][957]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.54:912][957]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.07.11-19.05.54:912][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.07.11-19.05.54:912][957]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.07.11-19.05.55:641][  1]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.55:656][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.55:671][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.55:678][  1]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.55:693][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.55:700][  1]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.55:715][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.11-19.05.55:723][  1]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.55:730][  1]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-19.05.58:577][186]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.11-19.05.58:577][186]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.11-19.05.58:690][193]LogMaterialEditor: Saving and Compiling material Rope
+[2020.07.11-19.05.59:249][193]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.59:298][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.07.11-19.05.59:313][193]LogMaterial: Display: Missing cached shader map for material Rope, compiling. 
+[2020.07.11-19.05.59:366][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.07.11-19.05.59:372][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.05.59:937][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.07.11-19.05.59:937][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.07.11-19.05.59:937][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.07.11-19.05.59:937][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.07.11-19.06.00:488][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.11-19.06.00:488][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.07.11-19.06.00:488][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.07.11-19.06.01:045][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.07.11-19.06.01:045][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.07.11-19.06.01:045][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.07.11-19.06.01:600][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.07.11-19.06.01:600][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.07.11-19.06.01:600][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.06.01:600][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.11-19.06.01:720][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.11-19.06.01:724][193]TextureStreamingBuild: Display: Compiling optional shaders took 2.356 seconds.
+[2020.07.11-19.06.01:733][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.07.11-19.06.02:900][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.11-19.06.03:461][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.11-19.06.04:700][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Rope" FILE="../../../../../GitHub/GameJam/Content/Materials/Rope.uasset" SILENT=true
+[2020.07.11-19.06.04:709][193]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Rope026C4C2948DDAE265542248936ADD94E.tmp' to '../../../../../GitHub/GameJam/Content/Materials/Rope.uasset'
+[2020.07.11-19.06.04:754][193]AssetCheck: New page: Asset Save: Rope
+[2020.07.11-19.06.04:754][193]LogContentValidation: Display: Validating Material /Game/Materials/Rope.Rope
+[2020.07.11-19.06.04:757][193]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.07.11-19.06.04:757][193]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.07.11-19.06.04:757][193]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.06.04:757][193]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.06.07:356][379]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-19.06.12:279][722]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.06.12:287][722]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.06.12:309][723]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.07.11-19.06.12:309][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.07.11-19.06.12:309][723]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.07.11-19.06.13:453][795]LogMaterialEditor: Applying material WhiteShiny
+[2020.07.11-19.06.14:013][795]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.07.11-19.06.14:023][795]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.06.14:078][795]LogMaterial: Display: Missing cached shader map for material WhiteShiny, compiling. 
+[2020.07.11-19.06.14:106][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.06.14:112][795]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-19.06.14:677][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.07.11-19.06.14:677][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.07.11-19.06.14:677][795]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.07.11-19.06.15:232][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.07.11-19.06.15:232][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.07.11-19.06.15:232][795]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.07.11-19.06.15:786][795]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.07.11-19.06.15:786][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.07.11-19.06.16:347][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.07.11-19.06.16:347][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.07.11-19.06.16:347][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.07.11-19.06.16:347][795]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.11-19.06.16:619][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.11-19.06.16:619][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.11-19.06.16:622][795]TextureStreamingBuild: Display: Compiling optional shaders took 2.514 seconds.
+[2020.07.11-19.06.16:632][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.07.11-19.06.19:851][991]LogMaterialEditor: Saving and Compiling material WhiteShiny
+[2020.07.11-19.06.20:449][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.11-19.06.21:009][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.11-19.06.21:955][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/WhiteShiny" FILE="../../../../../GitHub/GameJam/Content/Materials/WhiteShiny.uasset" SILENT=true
+[2020.07.11-19.06.21:984][991]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/WhiteShiny765C158142701E7C616233B7CE86D82D.tmp' to '../../../../../GitHub/GameJam/Content/Materials/WhiteShiny.uasset'
+[2020.07.11-19.06.22:021][991]AssetCheck: New page: Asset Save: WhiteShiny
+[2020.07.11-19.06.22:021][991]LogContentValidation: Display: Validating Material /Game/Materials/WhiteShiny.WhiteShiny
+[2020.07.11-19.06.22:023][991]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.07.11-19.06.22:023][991]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.07.11-19.06.22:023][991]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.07.11-19.06.22:023][991]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.11-19.07.07:806][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.07.11-19.07.07:853][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Character" FILE="../../../../../GitHub/GameJam/Content/Levels/Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-19.07.07:862][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.07.11-19.07.07:872][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/CharacterB74F73DF41759FF13BF342A8BDAC2F59.tmp' to '../../../../../GitHub/GameJam/Content/Levels/Character.umap'
+[2020.07.11-19.07.07:895][871]LogFileHelpers: Saving map 'Character' took 0.042
+[2020.07.11-19.07.07:895][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_BaseColor.uasset" SILENT=true
+[2020.07.11-19.07.07:974][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_BaseColor25A09C2A4A3EF6965E37E8AB182D1B7D.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_BaseColor.uasset'
+[2020.07.11-19.07.07:975][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_PlantBase_Height" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Height.uasset" SILENT=true
+[2020.07.11-19.07.08:055][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_HeightD548A7934C423142A4FE7AB4604231EB.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Height.uasset'
+[2020.07.11-19.07.08:056][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_PlantBase_Metallic" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Metallic.uasset" SILENT=true
+[2020.07.11-19.07.08:077][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Metallic88ACACF341233E87C26A0897408F1FCE.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Metallic.uasset'
+[2020.07.11-19.07.08:078][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_PlantBase_Normal" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Normal.uasset" SILENT=true
+[2020.07.11-19.07.08:364][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Normal81F4A9EC4054F37274FF0B81BD6DAE95.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Normal.uasset'
+[2020.07.11-19.07.08:365][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_PlantBase_Roughness" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Roughness.uasset" SILENT=true
+[2020.07.11-19.07.08:384][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_PlantBase_Roughness9D51AE8449D5BBD85555A7A3033B19FC.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_PlantBase_Roughness.uasset'
+[2020.07.11-19.07.08:385][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_Plants_Height" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Height.uasset" SILENT=true
+[2020.07.11-19.07.08:462][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_HeightD26F80A14E4B09F4D271F1AC0EB6D8CD.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Height.uasset'
+[2020.07.11-19.07.08:463][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_Plants_Metallic" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Metallic.uasset" SILENT=true
+[2020.07.11-19.07.08:483][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_MetallicC151322342BCCE3B7D0C75B3A6D9D94B.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Metallic.uasset'
+[2020.07.11-19.07.08:484][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_Plants_Normal" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Normal.uasset" SILENT=true
+[2020.07.11-19.07.08:744][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Normal8D9882AF4C86FBA92FB603AB978003A4.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Normal.uasset'
+[2020.07.11-19.07.08:745][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/FlowerTest_Plants_Roughness" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Roughness.uasset" SILENT=true
+[2020.07.11-19.07.08:766][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/FlowerTest_Plants_Roughness7BD05F7C4D6006205C8985A2FC6577D7.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/FlowerTest_Plants_Roughness.uasset'
+[2020.07.11-19.07.08:766][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TExtures/Plants_Opacity" FILE="../../../../../GitHub/GameJam/Content/Materials/TExtures/Plants_Opacity.uasset" SILENT=true
+[2020.07.11-19.07.08:794][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/Plants_Opacity70C9CE964AAE37CDF18036AAA1CFEE18.tmp' to '../../../../../GitHub/GameJam/Content/Materials/TExtures/Plants_Opacity.uasset'
+[2020.07.11-19.07.08:795][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Arrangement" FILE="../../../../../GitHub/GameJam/Content/Models/Arrangement.uasset" SILENT=true
+[2020.07.11-19.07.08:826][871]LogSavePackage: Moving '../../../../../GitHub/GameJam/Saved/ArrangementEED772CC4E8917B30824E7A6E49A4914.tmp' to '../../../../../GitHub/GameJam/Content/Models/Arrangement.uasset'
+[2020.07.11-19.07.08:854][871]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating World /Game/Levels/Character.Character
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_BaseColor.FlowerTest_PlantBase_BaseColor
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Height.FlowerTest_PlantBase_Height
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Metallic.FlowerTest_PlantBase_Metallic
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Normal.FlowerTest_PlantBase_Normal
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_PlantBase_Roughness.FlowerTest_PlantBase_Roughness
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Height.FlowerTest_Plants_Height
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Metallic.FlowerTest_Plants_Metallic
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Normal.FlowerTest_Plants_Normal
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/FlowerTest_Plants_Roughness.FlowerTest_Plants_Roughness
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating Texture2D /Game/Materials/TExtures/Plants_Opacity.Plants_Opacity
+[2020.07.11-19.07.08:854][871]LogContentValidation: Display: Validating StaticMesh /Game/Models/Arrangement.Arrangement
+[2020.07.11-19.07.47:627][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.11-19.08.02:070][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.11-19.08.04:116][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.07.11-19.08.04:188][473]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.04:188][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-19.08.04:222][473]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.04:222][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-19.08.04:263][473]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.04:263][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-19.08.04:278][473]LogSlate: Window 'FlowerTest_Plants_BaseColor' being destroyed
+[2020.07.11-19.08.04:402][473]LogSlate: Window 'GameJam - Unreal Editor' being destroyed
+[2020.07.11-19.08.04:432][473]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-19.08.04:880][474]Cmd: QUIT_EDITOR
+[2020.07.11-19.08.04:881][474]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.11-19.08.04:965][474]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.11-19.08.05:999][474]LogExit: Preparing to exit.
+[2020.07.11-19.08.06:792][474]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.06:792][474]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.06:793][474]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.06:890][474]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.11-19.08.07:111][474]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.08.07:111][474]LogExit: Editor shut down
+[2020.07.11-19.08.07:112][474]LogExit: Transaction tracking system shut down
+[2020.07.11-19.08.08:826][474]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002A157854340), frame # 119474
+[2020.07.11-19.08.08:826][474]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A1577991C0), frame # 119474
+[2020.07.11-19.08.08:845][474]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A1577F1E00), frame # 119474
+[2020.07.11-19.08.11:040][474]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A11C8B4900), frame # 119474
+[2020.07.11-19.08.11:040][474]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A10AC8C200), frame # 119474
+[2020.07.11-19.08.11:232][474]LogExit: Object subsystem successfully closed.
+[2020.07.11-19.08.11:477][474]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.11-19.08.13:439][474]LogModuleManager: Shutting down and abandoning module TextureEditor (798)
+[2020.07.11-19.08.13:457][474]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (796)
+[2020.07.11-19.08.13:468][474]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (794)
+[2020.07.11-19.08.13:468][474]LogModuleManager: Shutting down and abandoning module Voice (792)
+[2020.07.11-19.08.13:481][474]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.07.11-19.08.13:481][474]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.07.11-19.08.13:481][474]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.07.11-19.08.13:512][474]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.07.11-19.08.13:512][474]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.07.11-19.08.13:512][474]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.07.11-19.08.13:546][474]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.07.11-19.08.13:608][474]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.07.11-19.08.13:608][474]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.07.11-19.08.13:618][474]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.07.11-19.08.13:634][474]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.07.11-19.08.13:667][474]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.07.11-19.08.13:667][474]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.07.11-19.08.13:667][474]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.07.11-19.08.13:710][474]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.07.11-19.08.13:722][474]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.07.11-19.08.13:728][474]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.07.11-19.08.13:728][474]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.07.11-19.08.13:744][474]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.07.11-19.08.13:744][474]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.07.11-19.08.13:744][474]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.07.11-19.08.13:800][474]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.07.11-19.08.13:843][474]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.07.11-19.08.13:861][474]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.07.11-19.08.13:883][474]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.07.11-19.08.13:883][474]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.07.11-19.08.13:883][474]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.07.11-19.08.13:883][474]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.07.11-19.08.13:883][474]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.07.11-19.08.13:892][474]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.07.11-19.08.13:910][474]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.07.11-19.08.13:924][474]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.07.11-19.08.13:925][474]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.07.11-19.08.13:930][474]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.07.11-19.08.13:930][474]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.07.11-19.08.13:930][474]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.07.11-19.08.13:943][474]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.07.11-19.08.13:943][474]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.07.11-19.08.13:943][474]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.07.11-19.08.13:958][474]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.07.11-19.08.13:958][474]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.07.11-19.08.13:958][474]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.07.11-19.08.13:981][474]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.07.11-19.08.13:981][474]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.07.11-19.08.13:981][474]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.07.11-19.08.14:009][474]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.07.11-19.08.14:018][474]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.07.11-19.08.14:060][474]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.07.11-19.08.14:081][474]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.07.11-19.08.14:142][474]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.07.11-19.08.14:142][474]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.07.11-19.08.14:157][474]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.07.11-19.08.14:157][474]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.07.11-19.08.14:840][474]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.07.11-19.08.14:840][474]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.07.11-19.08.14:840][474]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.07.11-19.08.14:840][474]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.07.11-19.08.14:840][474]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.07.11-19.08.14:948][474]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.07.11-19.08.14:959][474]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.07.11-19.08.14:974][474]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.07.11-19.08.14:974][474]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.07.11-19.08.14:995][474]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.07.11-19.08.15:017][474]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.07.11-19.08.15:045][474]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.07.11-19.08.15:055][474]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.07.11-19.08.15:055][474]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.07.11-19.08.15:068][474]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.07.11-19.08.15:090][474]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.07.11-19.08.15:103][474]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.07.11-19.08.15:103][474]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.07.11-19.08.15:103][474]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.07.11-19.08.15:104][474]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.07.11-19.08.15:104][474]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.07.11-19.08.15:137][474]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.07.11-19.08.15:147][474]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.07.11-19.08.15:205][474]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.07.11-19.08.15:211][474]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.07.11-19.08.15:233][474]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.07.11-19.08.15:267][474]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.07.11-19.08.15:318][474]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.07.11-19.08.15:326][474]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.07.11-19.08.15:352][474]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.07.11-19.08.15:352][474]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.07.11-19.08.15:352][474]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.07.11-19.08.15:352][474]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.07.11-19.08.15:410][474]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.07.11-19.08.15:431][474]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.07.11-19.08.15:431][474]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.07.11-19.08.15:431][474]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.07.11-19.08.15:462][474]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.07.11-19.08.15:480][474]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.07.11-19.08.15:480][474]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.07.11-19.08.15:480][474]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.07.11-19.08.15:480][474]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.07.11-19.08.15:480][474]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.07.11-19.08.15:488][474]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.07.11-19.08.15:502][474]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.07.11-19.08.15:505][474]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.07.11-19.08.15:505][474]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.07.11-19.08.15:535][474]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.07.11-19.08.15:535][474]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.07.11-19.08.15:535][474]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.07.11-19.08.15:535][474]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.07.11-19.08.15:568][474]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.07.11-19.08.15:585][474]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.07.11-19.08.15:585][474]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.07.11-19.08.15:585][474]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.07.11-19.08.15:741][474]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.07.11-19.08.15:786][474]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.07.11-19.08.15:786][474]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.07.11-19.08.15:786][474]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.07.11-19.08.15:809][474]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.07.11-19.08.15:809][474]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.07.11-19.08.15:809][474]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.07.11-19.08.15:817][474]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.07.11-19.08.15:834][474]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.07.11-19.08.15:834][474]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.07.11-19.08.15:851][474]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.07.11-19.08.15:851][474]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.07.11-19.08.15:851][474]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.07.11-19.08.15:851][474]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.07.11-19.08.15:851][474]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.07.11-19.08.15:852][474]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.07.11-19.08.15:864][474]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.07.11-19.08.15:865][474]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.07.11-19.08.15:865][474]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.07.11-19.08.15:882][474]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.07.11-19.08.15:945][474]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.07.11-19.08.15:945][474]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.07.11-19.08.15:945][474]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.07.11-19.08.15:945][474]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.07.11-19.08.15:945][474]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.07.11-19.08.15:954][474]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.07.11-19.08.15:965][474]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.07.11-19.08.16:006][474]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.07.11-19.08.16:027][474]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.07.11-19.08.16:031][474]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.07.11-19.08.16:048][474]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.07.11-19.08.16:063][474]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.07.11-19.08.16:074][474]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.07.11-19.08.16:090][474]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.07.11-19.08.16:090][474]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.07.11-19.08.16:090][474]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.07.11-19.08.16:105][474]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.07.11-19.08.16:106][474]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.07.11-19.08.16:114][474]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.07.11-19.08.16:186][474]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.07.11-19.08.16:186][474]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.07.11-19.08.16:219][474]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.07.11-19.08.16:239][474]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.07.11-19.08.16:249][474]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.07.11-19.08.16:266][474]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.07.11-19.08.16:300][474]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.07.11-19.08.16:301][474]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.07.11-19.08.16:301][474]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.07.11-19.08.16:315][474]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.07.11-19.08.16:316][474]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.07.11-19.08.16:316][474]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.07.11-19.08.16:343][474]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.07.11-19.08.16:343][474]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.07.11-19.08.16:352][474]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.07.11-19.08.16:357][474]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.07.11-19.08.16:373][474]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.07.11-19.08.16:382][474]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.07.11-19.08.16:456][474]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.07.11-19.08.16:456][474]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.07.11-19.08.16:456][474]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.07.11-19.08.16:456][474]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.07.11-19.08.16:457][474]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.07.11-19.08.16:457][474]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.07.11-19.08.16:457][474]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.07.11-19.08.16:558][474]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.07.11-19.08.16:705][474]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.07.11-19.08.16:705][474]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.07.11-19.08.16:705][474]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.07.11-19.08.16:705][474]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.07.11-19.08.16:705][474]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.07.11-19.08.16:711][474]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.07.11-19.08.16:711][474]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.07.11-19.08.16:712][474]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.07.11-19.08.16:712][474]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.07.11-19.08.16:712][474]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.07.11-19.08.16:712][474]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.07.11-19.08.16:735][474]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.11-19.08.16:736][474]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.07.11-19.08.16:774][474]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.07.11-19.08.16:774][474]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.07.11-19.08.16:774][474]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.07.11-19.08.16:774][474]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.07.11-19.08.16:798][474]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.07.11-19.08.16:798][474]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.07.11-19.08.16:823][474]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.07.11-19.08.16:823][474]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.07.11-19.08.16:829][474]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.07.11-19.08.16:829][474]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.07.11-19.08.16:829][474]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.07.11-19.08.16:829][474]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.07.11-19.08.16:845][474]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.07.11-19.08.16:880][474]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.07.11-19.08.16:924][474]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.07.11-19.08.16:924][474]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.07.11-19.08.16:924][474]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.07.11-19.08.16:924][474]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.07.11-19.08.16:924][474]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.07.11-19.08.16:971][474]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.07.11-19.08.16:971][474]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.07.11-19.08.16:971][474]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.07.11-19.08.16:971][474]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.07.11-19.08.16:985][474]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.07.11-19.08.16:990][474]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.07.11-19.08.17:003][474]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.07.11-19.08.17:016][474]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.07.11-19.08.17:016][474]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.07.11-19.08.17:041][474]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.07.11-19.08.17:041][474]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.07.11-19.08.17:070][474]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.07.11-19.08.17:083][474]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.07.11-19.08.17:093][474]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.07.11-19.08.17:093][474]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.07.11-19.08.17:093][474]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.07.11-19.08.17:096][474]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.07.11-19.08.17:096][474]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.07.11-19.08.17:139][474]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.07.11-19.08.17:155][474]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.07.11-19.08.17:155][474]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.07.11-19.08.17:155][474]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.07.11-19.08.17:169][474]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.07.11-19.08.17:192][474]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.07.11-19.08.17:282][474]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.07.11-19.08.17:284][474]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.07.11-19.08.17:284][474]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.07.11-19.08.17:284][474]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.07.11-19.08.17:293][474]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.07.11-19.08.17:313][474]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.07.11-19.08.17:313][474]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.07.11-19.08.17:329][474]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.07.11-19.08.17:341][474]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.07.11-19.08.17:412][474]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.07.11-19.08.17:431][474]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.07.11-19.08.17:435][474]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.07.11-19.08.17:435][474]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.07.11-19.08.17:435][474]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.07.11-19.08.17:435][474]LogXGEController: Cleaning working directory: C:/Users/Faye/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.11-19.08.17:435][474]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.07.11-19.08.17:451][474]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.07.11-19.08.17:466][474]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.07.11-19.08.17:482][474]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.07.11-19.08.17:492][474]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.07.11-19.08.17:492][474]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.07.11-19.08.17:500][474]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.07.11-19.08.17:500][474]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.07.11-19.08.17:500][474]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.07.11-19.08.17:500][474]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.07.11-19.08.17:507][474]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.07.11-19.08.17:507][474]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.07.11-19.08.17:507][474]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.07.11-19.08.17:507][474]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.07.11-19.08.17:509][474]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.07.11-19.08.17:509][474]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.07.11-19.08.17:512][474]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.07.11-19.08.17:512][474]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.07.11-19.08.17:512][474]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.07.11-19.08.17:512][474]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.07.11-19.08.17:512][474]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.07.11-19.08.17:540][474]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.07.11-19.08.17:546][474]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.07.11-19.08.17:573][474]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.07.11-19.08.17:582][474]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.07.11-19.08.17:582][474]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.07.11-19.08.17:583][474]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.07.11-19.08.17:592][474]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.07.11-19.08.17:605][474]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.07.11-19.08.17:605][474]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.07.11-19.08.17:605][474]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.07.11-19.08.17:610][474]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.07.11-19.08.17:628][474]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.07.11-19.08.17:628][474]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.07.11-19.08.17:628][474]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.07.11-19.08.17:628][474]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.07.11-19.08.17:629][474]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.07.11-19.08.17:629][474]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.07.11-19.08.17:666][474]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.07.11-19.08.17:666][474]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.07.11-19.08.17:666][474]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.07.11-19.08.17:670][474]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.07.11-19.08.17:682][474]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.07.11-19.08.17:691][474]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.07.11-19.08.17:692][474]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.07.11-19.08.17:692][474]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.07.11-19.08.17:708][474]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.07.11-19.08.17:745][474]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.07.11-19.08.17:842][474]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.07.11-19.08.17:842][474]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.11-19.08.17:843][474]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6700533D-412B-1DF6-90C1-4089411B425B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=5e53272441e572f089625b9de0abacc9%7C4187b7686d24486ca2da91f050d2edd2%7C96d7aaf6-3482-49db-9d30-95f38dcbd793&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.11-19.08.17:846][474]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.07.11-19.08.17:849][474]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.07.11-19.08.17:901][474]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.07.11-19.08.17:902][474]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.07.11-19.08.17:902][474]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.07.11-19.08.17:914][474]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.07.11-19.08.17:914][474]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.07.11-19.08.17:914][474]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.07.11-19.08.17:915][474]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.07.11-19.08.17:915][474]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.07.11-19.08.17:926][474]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.07.11-19.08.17:945][474]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.07.11-19.08.17:945][474]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.11-19.08.17:945][474]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.11-19.08.17:964][474]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.11-19.08.17:964][474]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.11-19.08.17:996][474]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.11-19.08.17:996][474]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.11-19.08.17:996][474]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.11-19.08.17:996][474]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.11-19.08.18:011][474]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.11-19.08.18:025][474]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.11-19.08.18:025][474]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.11-19.08.18:030][474]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.11-19.08.18:050][474]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.11-19.08.18:050][474]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.11-19.08.18:050][474]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.11-19.08.18:068][474]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.11-19.08.18:068][474]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.11-19.08.18:072][474]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.11-19.08.18:072][474]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.11-19.08.18:072][474]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.11-19.08.18:072][474]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.07.11-19.08.18:120][474]LogD3D11RHI: Shutdown
+[2020.07.11-19.08.18:120][474]LogD3D11RHI: CleanupD3DDevice
+[2020.07.11-19.08.18:201][474]LogExit: Exiting.
+[2020.07.11-19.08.18:226][474]Log file closed, 07/11/20 20:08:18
