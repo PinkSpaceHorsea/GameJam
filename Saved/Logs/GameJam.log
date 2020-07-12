@@ -4520,3 +4520,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-10.26.23:989][370]SourceControl: [main b5742e5] Stuff
 [2020.07.12-10.26.23:989][370]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.07.12-10.26.23:994][370]SourceControl: Commited [main b5742e5] Stuff.
+[2020.07.12-10.27.27:530][872]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.07.12-10.27.27:556][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.07.12-10.27.27:560][872]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/GameJam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.12-10.27.27:560][872]LightingResults: New page: Lighting Build
+[2020.07.12-10.27.27:560][872]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.07.12-10.27.27:561][872]LogWorld: UWorld::CleanupWorld for Game_Level, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.27.27:561][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.27.27:561][872]MapCheck: New page: Map Check
+[2020.07.12-10.27.27:561][872]LightingResults: New page: Lighting Build
+[2020.07.12-10.27.27:584][872]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000236885B56C0), frame # 923872
+[2020.07.12-10.27.27:584][872]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000235E34FEA00), frame # 923872
+[2020.07.12-10.27.27:588][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.07.12-10.27.27:755][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-10.27.27:756][872]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.12-10.27.27:756][872]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000236B8080A00), frame # 923872
+[2020.07.12-10.27.27:756][872]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000236885B6200), frame # 923872
+[2020.07.12-10.27.27:782][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.07.12-10.27.27:809][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-10.27.27:809][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2020.07.12-10.27.27:809][872]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.249
